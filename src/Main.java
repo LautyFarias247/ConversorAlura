@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         final String URL_BASE = "https://v6.exchangerate-api.com/v6/";
-        final String API_KEY = "69231b2489404f255c3773a9";
+        final String API_KEY = "TU_API_KEY";
         ConsumoAPI consumoApi = new ConsumoAPI();
         Scanner teclado = new Scanner(System.in);
 
